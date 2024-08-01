@@ -1,2 +1,2 @@
-# xfg-frame-archetype - DDD 脚手架
+# 晨曦营销平台
 
